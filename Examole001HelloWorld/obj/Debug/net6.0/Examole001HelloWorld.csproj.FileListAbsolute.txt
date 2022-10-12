@@ -1,0 +1,15 @@
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\bin\Debug\net6.0\Examole001HelloWorld.exe
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\bin\Debug\net6.0\Examole001HelloWorld.deps.json
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\bin\Debug\net6.0\Examole001HelloWorld.runtimeconfig.json
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\bin\Debug\net6.0\Examole001HelloWorld.dll
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\bin\Debug\net6.0\Examole001HelloWorld.pdb
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\obj\Debug\net6.0\Examole001HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\obj\Debug\net6.0\Examole001HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\obj\Debug\net6.0\Examole001HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\obj\Debug\net6.0\Examole001HelloWorld.AssemblyInfo.cs
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\obj\Debug\net6.0\Examole001HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\obj\Debug\net6.0\Examole001HelloWorld.dll
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\obj\Debug\net6.0\refint\Examole001HelloWorld.dll
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\obj\Debug\net6.0\Examole001HelloWorld.pdb
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\obj\Debug\net6.0\Examole001HelloWorld.genruntimeconfig.cache
+C:\Users\Анна\Desktop\Lectore1\Examole001HelloWorld\obj\Debug\net6.0\ref\Examole001HelloWorld.dll
